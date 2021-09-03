@@ -22,7 +22,8 @@
     "express": "^4.17.1",
     "jQuery": "^1.7.4",
     "jquery": "^3.6.0",
-    "mysql2": "^2.3.0"
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
